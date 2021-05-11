@@ -12,7 +12,7 @@ An app which can show weather informations of a choosen city.
 ## Screenshots-
 <ul>
 <img src='https://github.com/sk662516/Weather-app/blob/main/Screenshots/1%20(1).jpg' height='650px'>
-<img src='https://github.com/sk662516/Weather-app/blob/main/Screenshots/1%20(5).jpg' height='650px'>
+<img src='https://github.com/sk662516/Weather-app/blob/main/Screenshots/1.jpg' height='650px'>
 <img src='https://github.com/sk662516/Weather-app/blob/main/Screenshots/1%20(4).jpg' height='650px'>
 <img src='https://github.com/sk662516/Weather-app/blob/main/Screenshots/1%20(3).jpg' height='650px'>
 <img src='https://github.com/sk662516/Weather-app/blob/main/Screenshots/1%20(2).jpg' height='650px'>
